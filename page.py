@@ -16,6 +16,7 @@ class Page:
 	def update_metadata(self):
 		parser = BeautifulSoup(self.html, 'html.parser')
 		max_start = 0
+		avg_dist = {}
 		for pagination in parser.find_all('div', { 'class' : 'pagination' }):
 			for ul in pagination.find_all('ul'):
 				for li in ul.find_all('li'):
@@ -23,8 +24,9 @@ class Page:
 						if li.a['href'] == '#':
 							continue
 						parsed = urlparse.urlparse(li.a['href'])
-						if max_start < int(urlparse.parse_qs(parsed.query)['start'][0]):
-							max_start = int(urlparse.parse_qs(parsed.query)['start'][0])
+						start = int(urlparse.parse_qs(parsed.query)['start'][0])
+						if max_start < start:
+							max_start = start
 			break
 		if max_start == 0:
 			self.max_start = 0
