@@ -5,16 +5,20 @@ from bs4 import BeautifulSoup
 import urllib.parse as urlparse
 from urllib.parse import urlencode
 
-login_link = 'forum.mxlinux.org/ucp.php?mode=login'
-
+forum = 'https://forum.mxlinux.org/'
 
 def get_html(url='', password=None, username=None):
     if password == None or username == None:
         return requests.get(url).text
-    headers = {'User-Agent' : 'Mozilla/5.0'}
-    payload = {'username': username, 'password': password, 'redirect':url, 'sid':'', 'login':'Login'}
     session = requests.Session()
-    return session.post(login_link, headers=headers, data=payload).text
+    headers = {'User-Agent' : 'Mozilla/5.0'}
+    payload = {'username': username, 'password': password, 'redirect':'index.php' , 'login':'Login'}
+    r = session.post(forum + "ucp.php?mode=login", headers=headers, data=payload)
+    sidStart = r.text.find("sid")+4
+    sid = r.text[sidStart:sidStart+32]
+    parameters = {'mode': 'login', 'sid': sid}
+    res = session.get(url, headers=headers, params=parameters)
+    return res.text
 
 def get_url_arg(url, arg):
     parsed = urlparse.urlparse(url)
@@ -73,7 +77,7 @@ class Request:
             isMultiPage = True
             break
         if not isMultiPage:
-            self.html = html
+            self.text = html
             return None
         max_start = 0
         for pagination in parser.find_all('div', {'class' : 'pagination'}):
@@ -120,18 +124,59 @@ args = parser.parse_args()
 if args.amount == None:
     args.amount = 20
 
-request = Request(url=args.url, pages=int(int(args.amount)/20)+1
+pages = int(int(args.amount)/20)
+if pages == 0:
+    pages = 1
+
+request = Request(url=args.url, pages=pages, username=args.username, password=args.password)
 soup = BeautifulSoup(request.text, 'html.parser')
 
 section_map = {}
 
-for forumbg in soup.fid_all(get_all_forumbg):
-    for topiclist in soup.find_all('div', {'class' : 'topiclist'}):
-        
-        
+current_section = ''
+
+for forumbg in soup.find_all(get_all_forumbg):
+    for topiclist in soup.find_all('ul', {'class' : 'topiclist'}):
+        if 'forums' in topiclist['class']:
+            for topictitle in topiclist.find_all('a', {'class' : 'topictitle'}):
+                section_map[current_section].append(topictitle.contents[2].strip())
+        elif 'topics' in topiclist['class']:
+            for topictitle in topiclist.find_all('a', {'class' : 'topictitle'}):
+                section_map[current_section].append(topictitle.string.strip())
+        else:
+            current_section = topiclist.find_all('div', {'class':'list-inner'})[0].string
+            if current_section == None:
+                continue
+            if not current_section in section_map.keys():
+                section_map[current_section] = []
+
+count = 0
+
+def f7(seq):
+    seen = set()
+    seen_add = seen.add
+    return [x for x in seq if not (x in seen or seen_add(x))]
+
+# Get rid of duplicates
+for key in section_map.keys():
+    section_map[key] = f7(section_map[key])
 
 
-
-
+if args.section != None:
+    if args.section in section_map.keys():
+        for item in section_map[args.section]:
+            if args.amount != None:
+                if count < int(args.amount):
+                    print(item)
+                    count+=1
+    else:
+        print('Invalid section')
+else:
+    for section in section_map.keys():
+        for item in section_map[section]:
+            if args.amount != None:
+                if count < int(args.amount):
+                    print(item)
+                    count+=1
 
 

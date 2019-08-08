@@ -1,0 +1,942 @@
+Requesting with creds
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>MX Linux Forum - Your posts</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - MX Linux Forum" href="/app.php/feed">							
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=41" rel="stylesheet">
+<link href="./styles/AllanStyle-SUBSILVER/theme/stylesheet.css?assets_version=41" rel="stylesheet">
+<link href="./styles/AllanStyle-SUBSILVER/theme/en/stylesheet.css?assets_version=41" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/AllanStyle-SUBSILVER/theme/tweaks.css?assets_version=41" rel="stylesheet">
+<![endif]-->
+
+	
+<link href="./ext/phpbb/boardannouncements/styles/all/theme/boardannouncements.css?assets_version=41" rel="stylesheet" media="screen" />
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-search ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="./index.php" title="Board index"><span class="site_logo"></span></a>
+				<h1>MX Linux Forum</h1>
+				<p>Support for MX and antiX Linux distros</p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									<div id="search-box" class="search-box search-header" role="search">
+				<form action="./search.php" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="search" maxlength="128" title="Search for keywords" class="inputbox search tiny" size="20" value="" placeholder="Search…" />
+					<button class="button button-search" type="submit" title="Search">
+						<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+					</button>
+					<a href="./search.php" class="button button-search-end" title="Advanced search">
+						<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+					</a>
+					
+				</fieldset>
+				</form>
+			</div>
+						
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+    
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./search.php?search_id=egosearch" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Your posts</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./search.php?search_id=newposts" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-red" aria-hidden="true"></i><span>New posts</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./search.php?search_id=unreadposts" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-red" aria-hidden="true"></i><span>Unread posts</span>
+								</a>
+							</li>
+													<li>
+								<a href="./search.php?search_id=unanswered" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Unanswered topics</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.php?search_id=active_topics" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Active topics</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.php" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Search</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-last-responsive="true">
+			<a href="/app.php/help/faq" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+			<li class="" data-last-responsive="true">
+		<a href="/app.php/contactadmin" role="menuitem">
+			<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+		</a>
+	</li>
+				
+					<li id="username_logged_in" class="rightside  no-bulletin" data-skip-responsive="true">
+						<div class="header-profile dropdown-container">
+				<a href="./ucp.php" class="header-avatar dropdown-trigger"><img class="avatar" src="./download/file.php?avatar=20184_1545674716.jpg" width="120" height="120" alt="User avatar" />  <span style="color: #000033;" class="username-coloured">Nite Coder</span></a>
+				<div class="dropdown">
+					<div class="pointer"><div class="pointer-inner"></div></div>
+					<ul class="dropdown-contents" role="menu">
+						
+					
+						<li>
+							<a href="./ucp.php" title="User Control Panel" role="menuitem">
+								<i class="icon fa-sliders fa-fw" aria-hidden="true"></i><span>User Control Panel</span>
+							</a>
+						</li>
+													<li>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=20184" title="Profile" role="menuitem">
+									<i class="icon fa-user fa-fw" aria-hidden="true"></i><span>Profile</span>
+								</a>
+							</li>
+						
+						
+						<li class="separator"></li>
+						<li>
+							<a href="./ucp.php?mode=logout&amp;sid=c0de9a2e2fc3ee106afe46e06c29cf7d" title="Logout" accesskey="x" role="menuitem">
+								<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Logout</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+					</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?i=pm&amp;folder=inbox" role="menuitem">
+					<i class="icon fa-inbox fa-fw" aria-hidden="true"></i><span>Private messages </span><strong class="badge hidden">0</strong>
+				</a>
+			</li>
+							<li class="dropdown-container dropdown-right rightside" data-skip-responsive="true">
+				<a href="./ucp.php?i=ucp_notifications" id="notification_list_button" class="dropdown-trigger">
+					<i class="icon fa-bell fa-fw" aria-hidden="true"></i><span>Notifications </span><strong class="badge hidden">0</strong>
+				</a>
+				<div id="notification_list" class="dropdown dropdown-extended notification_list">
+	<div class="pointer"><div class="pointer-inner"></div></div>
+	<div class="dropdown-contents">
+		<div class="header">
+			Notifications
+			<span class="header_settings">
+				<a href="./ucp.php?i=ucp_notifications&amp;mode=notification_options">Settings</a>
+							</span>
+		</div>
+
+		<ul>
+										<li class="">
+											<a class="notification-block" href="./ucp.php?i=pm&amp;mode=view&amp;p=60559">
+											<img class="avatar" src="./styles/AllanStyle-SUBSILVER/theme/images/no_avatar.gif" data-src="./download/file.php?avatar=5333_1415309859.jpg" width="120" height="81" alt="User avatar" />						<div class="notification_text">
+							<p class="notification-title"><strong>Private Message</strong> from <span style="color: #FF9900;" class="username-coloured">dolphin_oracle</span>:</p>
+							<p class="notification-reference">"Re: mx-tweak"</p>																					<p class="notification-time">Wed Aug 07, 2019 11:11 am</p>
+						</div>
+					</a>									</li>
+							<li class="">
+											<a class="notification-block" href="./ucp.php?i=pm&amp;mode=view&amp;p=60543">
+											<img class="avatar" src="./styles/AllanStyle-SUBSILVER/theme/images/no_avatar.gif" data-src="./download/file.php?avatar=5333_1415309859.jpg" width="120" height="81" alt="User avatar" />						<div class="notification_text">
+							<p class="notification-title"><strong>Private Message</strong> from <span style="color: #FF9900;" class="username-coloured">dolphin_oracle</span>:</p>
+							<p class="notification-reference">"Re: mx-tweak"</p>																					<p class="notification-time">Wed Aug 07, 2019 6:13 am</p>
+						</div>
+					</a>									</li>
+							<li class="">
+											<a class="notification-block" href="./ucp.php?i=pm&amp;mode=view&amp;p=60533">
+											<img class="avatar" src="./styles/AllanStyle-SUBSILVER/theme/images/no_avatar.gif" data-src="./download/file.php?avatar=5333_1415309859.jpg" width="120" height="81" alt="User avatar" />						<div class="notification_text">
+							<p class="notification-title"><strong>Private Message</strong> from <span style="color: #FF9900;" class="username-coloured">dolphin_oracle</span>:</p>
+							<p class="notification-reference">"Re: mx-tweak"</p>																					<p class="notification-time">Tue Aug 06, 2019 7:52 pm</p>
+						</div>
+					</a>									</li>
+							<li class="">
+											<a class="notification-block" href="./ucp.php?i=pm&amp;mode=view&amp;p=60529">
+											<img class="avatar" src="./styles/AllanStyle-SUBSILVER/theme/images/no_avatar.gif" data-src="./download/file.php?avatar=5333_1415309859.jpg" width="120" height="81" alt="User avatar" />						<div class="notification_text">
+							<p class="notification-title"><strong>Private Message</strong> from <span style="color: #FF9900;" class="username-coloured">dolphin_oracle</span>:</p>
+							<p class="notification-reference">"Re: mx-tweak"</p>																					<p class="notification-time">Tue Aug 06, 2019 7:16 pm</p>
+						</div>
+					</a>									</li>
+							<li class="">
+											<a class="notification-block" href="./ucp.php?i=pm&amp;mode=view&amp;p=60505">
+											<img class="avatar" src="./styles/AllanStyle-SUBSILVER/theme/images/no_avatar.gif" data-src="./download/file.php?avatar=5333_1415309859.jpg" width="120" height="81" alt="User avatar" />						<div class="notification_text">
+							<p class="notification-title"><strong>Private Message</strong> from <span style="color: #FF9900;" class="username-coloured">dolphin_oracle</span>:</p>
+							<p class="notification-reference">"Re: mx-tweak"</p>																					<p class="notification-time">Mon Aug 05, 2019 10:36 pm</p>
+						</div>
+					</a>									</li>
+					</ul>
+
+		<div class="footer">
+			<a href="./ucp.php?i=ucp_notifications"><span>See All</span></a>
+		</div>
+	</div>
+</div>
+			</li>
+						</ul>
+    <div class="navbar" role="navigation">
+	<div class="inner">
+    
+         <ul class="linklist rightside navlinks">
+   <li><a href="https://www.mxlinux.org">MX HOME</a> &bull;  </li>
+   <li><a href="https://www.mxlinux.org/donate">DONATE </a> &bull;  </li>
+   <li><a href="https://www.mxlinux.org/wiki">WIKI </a> &bull;  </li>
+   <li><a href="https://www.mxlinux.org/manuals">MANUALS </a> &bull;  </li>
+   <li><a href="https://www.mxlinux.org/support">SUPPORT</a> &bull;  </li>
+   <li><a href="https://bugs.mxlinux.org/">BUGS</a> &bull;  </li>
+   <li><a href="https://github.com/MX-Linux">GIT</a> </li>
+  
+   
+         </ul>
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+						<li class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+										<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="./index.php" itemprop="url" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="title">Board index</span></a></span>
+
+								</li>
+		
+					<li class="rightside responsive-search">
+				<a href="./search.php" title="View the advanced search options" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+				<div id="phpbb_announcement" style="background-color:#c3d3de">
+		<a href="/app.php/boardannouncements/close?hash=a8d0a366" data-ajax="close_announcement" data-overlay="false" class="close clearfix" title="Close announcement"></a>		<div><div style="text-align:center"><span style="color:#325375"><span style="font-size: 110%; line-height: normal"><strong class="text-strong">Welcome!</strong></span></span></div>
+
+<br>
+The kernel problem with recent updates has been solved. Find the solution <a href="https://mxlinux.org/blog/our-recent-kernel-problem/" class="postlink"><strong class="text-strong">here</strong></a><br>
+<br>
+<span style="font-size: 90%; line-height: normal"><span style="text-decoration:underline"><strong class="text-strong"> Important information</strong></span><br>
+-- <a href="https://forum.mxlinux.org/viewtopic.php?f=131&amp;p=493370#p493370" class="postlink">Required MX 15/16 Repository Changes</a><br>
+--<a href="https://forum.mxlinux.org/viewtopic.php?p=485534#p485534" class="postlink"> Information on torrent hosting changes</a><br>
+--<a href="https://forum.mxlinux.org/viewtopic.php?f=115&amp;t=48051" class="postlink"> Information on MX15/16 GPG Keys</a><br>
+--<a href="https://mxlinux.org/blog/meltdown-spectre-news/" class="postlink"> Spectre and Meltdown vulnerabilities</a><br>
+<br>
+<span style="text-decoration:underline">News</span><br>
+-- <a href="https://mxlinux.org/blog/introducing-our-new-website/" class="postlink">Introducing our new Website</a><br>
+-- MX Linux on social media: <a href="https://mxlinux.org/wiki/other/mx-linux-social-media" class="postlink"><strong class="text-strong">here</strong></a><br>
+<br>
+<span style="text-decoration:underline">Current releases</span><br>
+-- <strong class="text-strong">MX-18.3 Point Release</strong> release info <a href="https://mxlinux.org/blog/mx-18-3-refreshed-isos-now-available/" class="postlink"><strong class="text-strong"> here</strong></a><br>
+-- <strong class="text-strong">Migration Information to MX-18</strong> <a href="https://mxlinux.org/migration" class="postlink"><strong class="text-strong">here</strong></a><br>
+-- <strong class="text-strong">antiX-17.4.1</strong> release info <a href="https://forum.mxlinux.org/viewtopic.php?p=493421#p493421" class="postlink"><strong class="text-strong">here</strong></a><br>
+<br>
+<span style="text-decoration:underline">New users</span><br>
+-- Please read <a href="https://forum.mxlinux.org/viewtopic.php?p=255062#p255062" class="postlink"><strong class="text-strong">this</strong></a> first, and don't forget to add <strong class="text-strong">system and hardware information</strong> to posts!<br>
+-- Here are <a href="https://forum.mxlinux.org/viewtopic.php?p=255061#p255061" class="postlink"><strong class="text-strong">the Forum Rules</strong></a></span></div>
+	</div>
+
+
+<h2 class="searchresults-title">Your posts</h2>
+
+	<p class="advanced-search-link">
+		<a class="arrow-left" href="./search.php" title="Advanced search">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Go to advanced search</span>
+		</a>
+	</p>
+
+
+	<div class="action-bar bar-top">
+
+			<div class="search-box" role="search">
+			<form method="post" action="./search.php?st=0&amp;sk=t&amp;sd=d&amp;sr=topics&amp;author_id=20184">
+			<fieldset>
+				<input class="inputbox search tiny" type="search" name="add_keywords" id="add_keywords" value="" placeholder="Search these results" />
+				<button class="button button-search" type="submit" title="Search">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</button>
+				<a href="./search.php" class="button button-search-end" title="Advanced search">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+				</a>
+			</fieldset>
+			</form>
+		</div>
+	
+		
+		<div class="pagination">
+						Search found 10 matches
+							 &bull; Page <strong>1</strong> of <strong>1</strong>
+					</div>
+	</div>
+
+
+		<div class="forumbg">
+
+		<div class="inner">
+		<ul class="topiclist">
+			<li class="header">
+				<dl class="row-item">
+					<dt><div class="list-inner">Topics</div></dt>
+					<dd class="posts">Replies</dd>
+					<dd class="views">Views</dd>
+					<dd class="lastpost"><span>Last post</span></dd>
+				</dl>
+			</li>
+		</ul>
+		<ul class="topiclist topics">
+
+								<li class="row bg1">
+				<dl class="row-item topic_unread_mine">
+					<dt title="Unread posts">
+						<a href="./viewtopic.php?f=104&amp;t=51846&amp;view=unread#unread" class="row-item-link"></a>						<div class="list-inner">
+																						<a class="unread" href="./viewtopic.php?f=104&amp;t=51846&amp;view=unread#unread">
+									<i class="icon fa-file fa-fw icon-red icon-md" aria-hidden="true"></i><span class="sr-only">New post</span>
+								</a>
+														<a href="./viewtopic.php?f=104&amp;t=51846" class="topictitle">Menu Editor does not reflect reality</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=20391" style="color: #000033;" class="username-coloured">JayM</a> &laquo; <a href="./viewtopic.php?f=104&amp;t=51846&amp;p=519815#p519815" title="Go to last post">Thu Aug 08, 2019 5:01 am</a>
+									<br />Posted in <a href="./viewforum.php?f=104">MX Help</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>12</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=22662" style="color: #00BFBF;" class="username-coloured">SteelGrimpeur</a> &raquo; Thu Aug 01, 2019 9:29 am &raquo; in <a href="./viewforum.php?f=104">MX Help</a>
+							</div>
+
+														<div class="pagination">
+								<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+								<ul>
+																	<li><a class="button" href="./viewtopic.php?f=104&amp;t=51846">1</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=104&amp;t=51846&amp;start=10">2</a></li>
+																																																			</ul>
+							</div>
+							
+													</div>
+					</dt>
+					<dd class="posts">12 <dfn>Replies</dfn></dd>
+					<dd class="views">534 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=20391" style="color: #000033;" class="username-coloured">JayM</a>															<a href="./viewtopic.php?f=104&amp;t=51846&amp;p=519815#p519815" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Thu Aug 08, 2019 5:01 am
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg2">
+				<dl class="row-item topic_unread_hot_mine">
+					<dt title="Unread posts">
+						<a href="./viewtopic.php?f=104&amp;t=50535&amp;view=unread#unread" class="row-item-link"></a>						<div class="list-inner">
+																						<a class="unread" href="./viewtopic.php?f=104&amp;t=50535&amp;view=unread#unread">
+									<i class="icon fa-file fa-fw icon-red icon-md" aria-hidden="true"></i><span class="sr-only">New post</span>
+								</a>
+														<a href="./viewtopic.php?f=104&amp;t=50535" class="topictitle">Docker service can't start after a remaster or live snapshot</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=18947" style="color: #FF9900;" class="username-coloured">fehlix</a> &laquo; <a href="./viewtopic.php?f=104&amp;t=50535&amp;p=519541#p519541" title="Go to last post">Tue Aug 06, 2019 3:58 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=104">MX Help</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>38</strong></span>							
+							<div class="responsive-hide left-box">
+																<i class="icon fa-paperclip fa-fw" aria-hidden="true"></i>								by <a href="./memberlist.php?mode=viewprofile&amp;u=21858" style="color: #000033;" class="username-coloured">cornelyus7</a> &raquo; Mon May 27, 2019 9:54 am &raquo; in <a href="./viewforum.php?f=104">MX Help</a>
+							</div>
+
+														<div class="pagination">
+								<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+								<ul>
+																	<li><a class="button" href="./viewtopic.php?f=104&amp;t=50535">1</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=104&amp;t=50535&amp;start=10">2</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=104&amp;t=50535&amp;start=20">3</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=104&amp;t=50535&amp;start=30">4</a></li>
+																																																			</ul>
+							</div>
+							
+													</div>
+					</dt>
+					<dd class="posts">38 <dfn>Replies</dfn></dd>
+					<dd class="views">4329 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=18947" style="color: #FF9900;" class="username-coloured">fehlix</a>															<a href="./viewtopic.php?f=104&amp;t=50535&amp;p=519541#p519541" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Tue Aug 06, 2019 3:58 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg1">
+				<dl class="row-item topic_read_mine">
+					<dt title="There are no new unread posts for this topic.">
+												<div class="list-inner">
+																					<a href="./viewtopic.php?f=9&amp;t=51930" class="topictitle">The real way to check the forum</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=7" style="color: #FF9900;" class="username-coloured">Adrian</a> &laquo; <a href="./viewtopic.php?f=9&amp;t=51930&amp;p=519387#p519387" title="Go to last post">Mon Aug 05, 2019 8:09 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=9">Community Fun</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>2</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &raquo; Mon Aug 05, 2019 7:35 pm &raquo; in <a href="./viewforum.php?f=9">Community Fun</a>
+							</div>
+
+							
+													</div>
+					</dt>
+					<dd class="posts">2 <dfn>Replies</dfn></dd>
+					<dd class="views">156 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=7" style="color: #FF9900;" class="username-coloured">Adrian</a>															<a href="./viewtopic.php?f=9&amp;t=51930&amp;p=519387#p519387" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Mon Aug 05, 2019 8:09 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg2">
+				<dl class="row-item topic_read_mine">
+					<dt title="There are no new unread posts for this topic.">
+												<div class="list-inner">
+																					<a href="./viewtopic.php?f=138&amp;t=51910" class="topictitle">An easier way to get your current themeing into a MX Tweak Theme file</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &laquo; <a href="./viewtopic.php?f=138&amp;t=51910&amp;p=519188#p519188" title="Go to last post">Sun Aug 04, 2019 8:02 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=138">Application Development</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>8</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &raquo; Sun Aug 04, 2019 2:24 pm &raquo; in <a href="./viewforum.php?f=138">Application Development</a>
+							</div>
+
+							
+													</div>
+					</dt>
+					<dd class="posts">8 <dfn>Replies</dfn></dd>
+					<dd class="views">78 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a>															<a href="./viewtopic.php?f=138&amp;t=51910&amp;p=519188#p519188" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Sun Aug 04, 2019 8:02 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg1">
+				<dl class="row-item topic_read_mine">
+					<dt title="There are no new unread posts for this topic.">
+												<div class="list-inner">
+																					<a href="./viewtopic.php?f=138&amp;t=51031" class="topictitle">A Bashrc Config Tool</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=18804" style="color: #000033;" class="username-coloured">Buck Fankers</a> &laquo; <a href="./viewtopic.php?f=138&amp;t=51031&amp;p=512275#p512275" title="Go to last post">Fri Jun 28, 2019 4:36 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=138">Application Development</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>3</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &raquo; Mon Jun 17, 2019 9:48 pm &raquo; in <a href="./viewforum.php?f=138">Application Development</a>
+							</div>
+
+							
+													</div>
+					</dt>
+					<dd class="posts">3 <dfn>Replies</dfn></dd>
+					<dd class="views">122 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=18804" style="color: #000033;" class="username-coloured">Buck Fankers</a>															<a href="./viewtopic.php?f=138&amp;t=51031&amp;p=512275#p512275" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Fri Jun 28, 2019 4:36 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg2">
+				<dl class="row-item topic_unread_hot_mine">
+					<dt title="Unread posts">
+						<a href="./viewtopic.php?f=108&amp;t=51160&amp;view=unread#unread" class="row-item-link"></a>						<div class="list-inner">
+																						<a class="unread" href="./viewtopic.php?f=108&amp;t=51160&amp;view=unread#unread">
+									<i class="icon fa-file fa-fw icon-red icon-md" aria-hidden="true"></i><span class="sr-only">New post</span>
+								</a>
+														<a href="./viewtopic.php?f=108&amp;t=51160" class="topictitle">[SOLVED] Centred windows and Bluetooth applet</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=20391" style="color: #000033;" class="username-coloured">JayM</a> &laquo; <a href="./viewtopic.php?f=108&amp;t=51160&amp;p=511576#p511576" title="Go to last post">Tue Jun 25, 2019 1:49 am</a>
+									<br />Posted in <a href="./viewforum.php?f=108">Software / Configuration</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>14</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=22264" style="color: #000033;" class="username-coloured">Seagasm</a> &raquo; Sun Jun 23, 2019 6:56 pm &raquo; in <a href="./viewforum.php?f=108">Software / Configuration</a>
+							</div>
+
+														<div class="pagination">
+								<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+								<ul>
+																	<li><a class="button" href="./viewtopic.php?f=108&amp;t=51160">1</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=108&amp;t=51160&amp;start=10">2</a></li>
+																																																			</ul>
+							</div>
+							
+													</div>
+					</dt>
+					<dd class="posts">14 <dfn>Replies</dfn></dd>
+					<dd class="views">1843 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=20391" style="color: #000033;" class="username-coloured">JayM</a>															<a href="./viewtopic.php?f=108&amp;t=51160&amp;p=511576#p511576" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Tue Jun 25, 2019 1:49 am
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg1">
+				<dl class="row-item topic_read_mine">
+					<dt title="There are no new unread posts for this topic.">
+												<div class="list-inner">
+																					<a href="./viewtopic.php?f=23&amp;t=51092" class="topictitle">Editing system files: best practice</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=21042" style="color: #000033;" class="username-coloured">Head_on_a_Stick</a> &laquo; <a href="./viewtopic.php?f=23&amp;t=51092&amp;p=511294#p511294" title="Go to last post">Sun Jun 23, 2019 2:10 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=23">Tips&amp;Tricks</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>11</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=21042" style="color: #000033;" class="username-coloured">Head_on_a_Stick</a> &raquo; Thu Jun 20, 2019 3:38 pm &raquo; in <a href="./viewforum.php?f=23">Tips&amp;Tricks</a>
+							</div>
+
+														<div class="pagination">
+								<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+								<ul>
+																	<li><a class="button" href="./viewtopic.php?f=23&amp;t=51092">1</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=23&amp;t=51092&amp;start=10">2</a></li>
+																																																			</ul>
+							</div>
+							
+													</div>
+					</dt>
+					<dd class="posts">11 <dfn>Replies</dfn></dd>
+					<dd class="views">1507 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=21042" style="color: #000033;" class="username-coloured">Head_on_a_Stick</a>															<a href="./viewtopic.php?f=23&amp;t=51092&amp;p=511294#p511294" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Sun Jun 23, 2019 2:10 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg2">
+				<dl class="row-item topic_read_mine">
+					<dt title="There are no new unread posts for this topic.">
+												<div class="list-inner">
+																					<a href="./viewtopic.php?f=108&amp;t=51021" class="topictitle">[SOLVED]Why does MX not create desktop files for the Qt Tools?</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=17074" style="color: #FF9900;" class="username-coloured">mmikeinsantarosa</a> &laquo; <a href="./viewtopic.php?f=108&amp;t=51021&amp;p=509844#p509844" title="Go to last post">Mon Jun 17, 2019 4:04 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=108">Software / Configuration</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>4</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &raquo; Mon Jun 17, 2019 1:08 pm &raquo; in <a href="./viewforum.php?f=108">Software / Configuration</a>
+							</div>
+
+							
+													</div>
+					</dt>
+					<dd class="posts">4 <dfn>Replies</dfn></dd>
+					<dd class="views">768 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=17074" style="color: #FF9900;" class="username-coloured">mmikeinsantarosa</a>															<a href="./viewtopic.php?f=108&amp;t=51021&amp;p=509844#p509844" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Mon Jun 17, 2019 4:04 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg1">
+				<dl class="row-item topic_read_mine">
+					<dt title="There are no new unread posts for this topic.">
+												<div class="list-inner">
+																					<a href="./viewtopic.php?f=100&amp;t=49438" class="topictitle">[SOLVED]LiveEnv only using RAM instead of liveusb Partition</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=20391" style="color: #000033;" class="username-coloured">JayM</a> &laquo; <a href="./viewtopic.php?f=100&amp;t=49438&amp;p=494368#p494368" title="Go to last post">Tue Apr 02, 2019 11:11 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=100">MX Modified</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>11</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &raquo; Mon Apr 01, 2019 11:34 am &raquo; in <a href="./viewforum.php?f=100">MX Modified</a>
+							</div>
+
+														<div class="pagination">
+								<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+								<ul>
+																	<li><a class="button" href="./viewtopic.php?f=100&amp;t=49438">1</a></li>
+																										<li><a class="button" href="./viewtopic.php?f=100&amp;t=49438&amp;start=10">2</a></li>
+																																																			</ul>
+							</div>
+							
+													</div>
+					</dt>
+					<dd class="posts">11 <dfn>Replies</dfn></dd>
+					<dd class="views">2106 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=20391" style="color: #000033;" class="username-coloured">JayM</a>															<a href="./viewtopic.php?f=100&amp;t=49438&amp;p=494368#p494368" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Tue Apr 02, 2019 11:11 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+											<li class="row bg2">
+				<dl class="row-item topic_unread_mine">
+					<dt title="Unread posts">
+						<a href="./viewtopic.php?f=108&amp;t=47512&amp;view=unread#unread" class="row-item-link"></a>						<div class="list-inner">
+																						<a class="unread" href="./viewtopic.php?f=108&amp;t=47512&amp;view=unread#unread">
+									<i class="icon fa-file fa-fw icon-red icon-md" aria-hidden="true"></i><span class="sr-only">New post</span>
+								</a>
+														<a href="./viewtopic.php?f=108&amp;t=47512" class="topictitle">[Solved] Bug - MX programs hang off screen</a>
+																												<br />
+							
+															<div class="responsive-show" style="display: none;">
+									Last post by <a href="./memberlist.php?mode=viewprofile&amp;u=7" style="color: #FF9900;" class="username-coloured">Adrian</a> &laquo; <a href="./viewtopic.php?f=108&amp;t=47512&amp;p=474392#p474392" title="Go to last post">Sun Dec 23, 2018 1:04 pm</a>
+									<br />Posted in <a href="./viewforum.php?f=108">Software / Configuration</a>
+								</div>
+							<span class="responsive-show left-box" style="display: none;">Replies: <strong>6</strong></span>							
+							<div class="responsive-hide left-box">
+																								by <a href="./memberlist.php?mode=viewprofile&amp;u=20184" style="color: #000033;" class="username-coloured">Nite Coder</a> &raquo; Sun Dec 23, 2018 11:06 am &raquo; in <a href="./viewforum.php?f=108">Software / Configuration</a>
+							</div>
+
+							
+													</div>
+					</dt>
+					<dd class="posts">6 <dfn>Replies</dfn></dd>
+					<dd class="views">481 <dfn>Views</dfn></dd>
+					<dd class="lastpost">
+						<span><dfn>Last post </dfn>by <a href="./memberlist.php?mode=viewprofile&amp;u=7" style="color: #FF9900;" class="username-coloured">Adrian</a>															<a href="./viewtopic.php?f=108&amp;t=47512&amp;p=474392#p474392" title="Go to last post">
+									<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+								</a>
+														<br />Sun Dec 23, 2018 1:04 pm
+						</span>
+					</dd>
+				</dl>
+			</li>
+							</ul>
+
+		</div>
+	</div>
+	
+
+<div class="action-bar bottom">
+		<form method="post" action="./search.php?st=0&amp;sk=t&amp;sd=d&amp;sr=topics&amp;author_id=20184">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Display and sorting options" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Display: <select name="st" id="st"><option value="0" selected="selected">All results</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select></label>
+								<label>Sort by: <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="f">Forum</option><option value="i">Topic title</option><option value="s">Post subject</option></select></label>
+				<label>Direction: <select name="sd" id="sd"><option value="a">Ascending</option><option value="d" selected="selected">Descending</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Go" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+	</form>
+		
+	<div class="pagination">
+		Search found 10 matches
+					 &bull; Page <strong>1</strong> of <strong>1</strong>
+			</div>
+</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a class="left-box arrow-left" href="./search.php" title="Advanced search" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Go to advanced search</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Jump to" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Jump to</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=130" class="jumpbox-cat-link"> <span> News/Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=131" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; MX News and Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=132" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; antiX News and Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=133" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Site Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=103" class="jumpbox-cat-link"> <span> MX - ACTIVELY DEVELOPED AND SUPPORTED</span></a></li>
+																<li><a href="./viewforum.php?f=104" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; MX Help</span></a></li>
+																<li><a href="./viewforum.php?f=97" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bugs and Non-Package Requests Forum</span></a></li>
+																<li><a href="./viewforum.php?f=92" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Installation</span></a></li>
+																<li><a href="./viewforum.php?f=23" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Tips&amp;Tricks</span></a></li>
+																<li><a href="./viewforum.php?f=94" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General</span></a></li>
+																<li><a href="./viewforum.php?f=93" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Desktop Environment</span></a></li>
+																<li><a href="./viewforum.php?f=101" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Documentation and videos</span></a></li>
+																<li><a href="./viewforum.php?f=95" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Themes and Screenshots</span></a></li>
+																<li><a href="./viewforum.php?f=116" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; MX Art</span></a></li>
+																<li><a href="./viewforum.php?f=128" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; User contributed icons</span></a></li>
+																<li><a href="./viewforum.php?f=129" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; User contributed Wallpaper</span></a></li>
+																<li><a href="./viewforum.php?f=126" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; MX Linux Official Blog</span></a></li>
+																<li><a href="./viewforum.php?f=107" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Hardware /Configuration</span></a></li>
+																<li><a href="./viewforum.php?f=108" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Software / Configuration</span></a></li>
+																<li><a href="./viewforum.php?f=91" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Older Versions</span></a></li>
+																<li><a href="./viewforum.php?f=124" class="jumpbox-cat-link"> <span> MX MODIFIED - CONDITIONALLY SUPPORTED BY FORUM MEMBERS</span></a></li>
+																<li><a href="./viewforum.php?f=100" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; MX Modified</span></a></li>
+																<li><a href="./viewforum.php?f=127" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; MX KDE</span></a></li>
+																<li><a href="./viewforum.php?f=112" class="jumpbox-cat-link"> <span> antiX - MX COLLABORATOR, ACTIVELY DEVELOPED AND SUPPORTED</span></a></li>
+																<li><a href="./viewforum.php?f=40" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; antiX</span></a></li>
+																<li><a href="./viewforum.php?f=76" class="jumpbox-cat-link"> <span> Development</span></a></li>
+																<li><a href="./viewforum.php?f=77" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General</span></a></li>
+																<li><a href="./viewforum.php?f=65" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Website</span></a></li>
+																<li><a href="./viewforum.php?f=60" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Torrent Team</span></a></li>
+																<li><a href="./viewforum.php?f=48" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Art Discussion</span></a></li>
+																<li><a href="./viewforum.php?f=96" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Translations</span></a></li>
+																<li><a href="./viewforum.php?f=138" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Application Development</span></a></li>
+																<li><a href="./viewforum.php?f=78" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Community Repository (CR)</span></a></li>
+																<li><a href="./viewforum.php?f=115" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; General</span></a></li>
+																<li><a href="./viewforum.php?f=57" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; CR Discussion</span></a></li>
+																<li><a href="./viewforum.php?f=55" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Requests / Status</span></a></li>
+																<li><a href="./viewforum.php?f=134" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Requests/Status - MX 17/18</span></a></li>
+																<li><a href="./viewforum.php?f=121" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Requests/Status - MX-15/16</span></a></li>
+																<li><a href="./viewforum.php?f=79" class="jumpbox-cat-link"> <span> Community</span></a></li>
+																<li><a href="./viewforum.php?f=80" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Chat</span></a></li>
+																<li><a href="./viewforum.php?f=6" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; General</span></a></li>
+																<li><a href="./viewforum.php?f=9" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Community Fun</span></a></li>
+																<li><a href="./viewforum.php?f=42" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Success Stories</span></a></li>
+																<li><a href="./viewforum.php?f=25" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Testimonials</span></a></li>
+																<li><a href="./viewforum.php?f=81" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Other Languages</span></a></li>
+																<li><a href="./viewforum.php?f=12" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Forum en Español</span></a></li>
+																<li><a href="./viewforum.php?f=13" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Forum Français</span></a></li>
+																<li><a href="./viewforum.php?f=14" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Forum Italiano</span></a></li>
+																<li><a href="./viewforum.php?f=136" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Deutsches Forum</span></a></li>
+																<li><a href="./viewforum.php?f=139" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; المنتدي العربي</span></a></li>
+																<li><a href="./viewforum.php?f=82" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Community Submissions</span></a></li>
+																<li><a href="./viewforum.php?f=39" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Sharing</span></a></li>
+																<li><a href="./viewforum.php?f=27" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Scripts</span></a></li>
+																<li><a href="./viewforum.php?f=102" class="jumpbox-cat-link"> <span> Administration</span></a></li>
+																<li><a href="./viewforum.php?f=89" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Members Only</span></a></li>
+																<li><a href="./viewforum.php?f=118" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Pre-Release Testing</span></a></li>
+																<li><a href="./viewforum.php?f=33" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Rules and Forum How-Tos</span></a></li>
+																<li><a href="./viewforum.php?f=32" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Rules</span></a></li>
+																<li><a href="./viewforum.php?f=35" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Forum How-to's</span></a></li>
+																<li><a href="./viewforum.php?f=10" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Site Help</span></a></li>
+																<li><a href="./viewforum.php?f=113" class="jumpbox-cat-link"> <span> Archives</span></a></li>
+																<li><a href="./viewforum.php?f=4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; MEPIS - DEVELOPMENT INACTIVE, SUPPORTED BY THIS COMMUNITY</span></a></li>
+																<li><a href="./viewforum.php?f=110" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mepis Help</span></a></li>
+																<li><a href="./viewforum.php?f=117" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mepis 12 Beta</span></a></li>
+																<li><a href="./viewforum.php?f=73" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; General</span></a></li>
+																<li><a href="./viewforum.php?f=7" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Newbies</span></a></li>
+																<li><a href="./viewforum.php?f=37" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 64-bit Newbies</span></a></li>
+																<li><a href="./viewforum.php?f=8" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Regulars</span></a></li>
+																<li><a href="./viewforum.php?f=38" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 64-bit Regulars</span></a></li>
+																<li><a href="./viewforum.php?f=111" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Older Versions</span></a></li>
+																<li><a href="./viewforum.php?f=74" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Hardware / Configuration</span></a></li>
+																<li><a href="./viewforum.php?f=11" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Hardware General</span></a></li>
+																<li><a href="./viewforum.php?f=16" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Sound</span></a></li>
+																<li><a href="./viewforum.php?f=17" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Video-Related</span></a></li>
+																<li><a href="./viewforum.php?f=19" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Networking</span></a></li>
+																<li><a href="./viewforum.php?f=18" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Print/Scan</span></a></li>
+																<li><a href="./viewforum.php?f=75" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Software / Configuration</span></a></li>
+																<li><a href="./viewforum.php?f=59" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; KDE</span></a></li>
+																<li><a href="./viewforum.php?f=29" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Other WMs / DEs</span></a></li>
+																<li><a href="./viewforum.php?f=36" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; VMs/Emulators</span></a></li>
+																<li><a href="./viewforum.php?f=15" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Security</span></a></li>
+																<li><a href="./viewforum.php?f=21" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Servers</span></a></li>
+																<li><a href="./viewforum.php?f=24" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Gamers</span></a></li>
+																<li><a href="./viewforum.php?f=63" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Office</span></a></li>
+																<li><a href="./viewforum.php?f=98" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Requests/Status - MX-14</span></a></li>
+																<li><a href="./viewforum.php?f=88" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Status - 12.0 Beta</span></a></li>
+																<li><a href="./viewforum.php?f=83" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Package Status - 11.0</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Board index</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="America/Detroit">UTC-04:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php" title="View complete list of members" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+				</a>
+			</li>
+					<li class="rightside" data-last-responsive="true">
+		<a href="/app.php/contactadmin" role="menuitem">
+			<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+		</a>
+	</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row">
+			<a class="footer-link" href="./ucp.php?mode=privacy" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery.min.js?assets_version=41"></script>
+<script src="./assets/javascript/core.js?assets_version=41"></script>
+
+
+<script type="text/javascript">
+(function($) {  // Avoid conflicts with other libraries
+
+'use strict';
+	
+	phpbb.addAjaxCallback('reporttosfs', function(data) {
+		if (data.postid !== "undefined") {
+			$('#sfs' + data.postid).hide();
+			phpbb.closeDarkenWrapper(5000);
+		}
+	});
+
+})(jQuery);
+</script>
+<script src="./ext/phpbb/boardannouncements/styles/all/template/js/boardannouncements.js?assets_version=41"></script>
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=41"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=41"></script>
+
+
+
+</body>
+</html>
+
