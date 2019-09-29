@@ -55,7 +55,6 @@ class Section(ForumSelectorObject):
                 except ConstructError as ce:
                     raise ConstructError('fv.construct threw ContructError: ' + ce.msg)
             for match in parser.select(TopicView().selector('section')):
-                print(str(match))
                 tv = TopicView()
                 try:
                     tv.contruct(str(match))
