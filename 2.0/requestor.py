@@ -89,6 +89,6 @@ class Requestor:
             htmls.append(html)
             page_count += 1
             start += int(20 if typ == 'forum' else 10)
-            return htmls           
+            return htmls
 
 

@@ -1,0 +1,608 @@
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX News and Announcements" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=131">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX News and Announcements</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=131&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">MX News and Announcements</a>
+<br/>Announcements and news of importance or interest regarding MX.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>45</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">45 <dfn>Topics</dfn></dd>
+<dd class="posts">89 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=5333&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #FF8000;">dolphin_oracle</a> <a href="./viewtopic.php?f=131&amp;p=559844&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p559844" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Feb 14, 2020 11:04 pm
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - antiX News and Announcements" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=132">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - antiX News and Announcements</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=132&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">antiX News and Announcements</a>
+<br/>Announcements and news of importance or interest regarding antiX.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>1</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">1 <dfn>Topics</dfn></dd>
+<dd class="posts">6 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17058&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #00AA00;">rokytnji.1</a> <a href="./viewtopic.php?f=132&amp;p=424310&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p424310" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Oct 22, 2017 8:58 pm
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Site Announcements" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=133">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Site Announcements</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=133&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Site Announcements</a>
+<br/>Announcements and news of importance or interest regarding the Forum and the Community Website.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>15</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">15 <dfn>Topics</dfn></dd>
+<dd class="posts">26 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=77&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #AA0000;">richb</a> <a href="./viewtopic.php?f=133&amp;p=564490&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p564490" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Wed Mar 11, 2020 9:10 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Help" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=104">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Help</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=104&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">MX Help</a>
+<br/>Help for Current Versions of MX																										<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=97&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Bugs and Non-Package Requests Forum</a>, 															<a class="subforum read" href="./viewforum.php?f=92&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Installation</a>, 															<a class="subforum read" href="./viewforum.php?f=23&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Tips&amp;Tricks</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>5942</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">5942 <dfn>Topics</dfn></dd>
+<dd class="posts">59988 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=18947&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #FF8000;">fehlix</a> <a href="./viewtopic.php?f=104&amp;p=566342&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566342" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 8:24 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - General" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=94">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - General</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=94&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">General</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=93&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Desktop Environment</a>, 															<a class="subforum read" href="./viewforum.php?f=101&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Documentation and videos</a>, 															<a class="subforum read" href="./viewforum.php?f=95&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Themes and Screenshots</a>, 															<a class="subforum read" href="./viewforum.php?f=116&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>MX Art</a>, 															<a class="subforum read" href="./viewforum.php?f=128&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>User contributed icons</a>, 															<a class="subforum read" href="./viewforum.php?f=129&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>User contributed Wallpaper</a>, 															<a class="subforum read" href="./viewforum.php?f=126&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>MX Linux Official Blog</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>2077</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">2077 <dfn>Topics</dfn></dd>
+<dd class="posts">30631 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=20391&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #4080FF;">JayM</a> <a href="./viewtopic.php?f=93&amp;p=566318&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566318" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 4:27 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Hardware /Configuration" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=107">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Hardware /Configuration</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=107&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Hardware /Configuration</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>985</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">985 <dfn>Topics</dfn></dd>
+<dd class="posts">8974 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=365&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #AA0000;">Jerry3904</a> <a href="./viewtopic.php?f=107&amp;p=566335&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566335" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 7:13 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Software / Configuration" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=108">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Software / Configuration</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=108&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Software / Configuration</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>2274</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">2274 <dfn>Topics</dfn></dd>
+<dd class="posts">20642 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=25448&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #00BFBF;">sda</a> <a href="./viewtopic.php?f=108&amp;p=566259&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566259" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Mar 22, 2020 8:35 pm
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Older Versions" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=91">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Older Versions</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=91&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Older Versions</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>253</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">253 <dfn>Topics</dfn></dd>
+<dd class="posts">5093 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17572&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">joejac</a> <a href="./viewtopic.php?f=91&amp;p=565044&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p565044" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sat Mar 14, 2020 6:03 pm
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Modified" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=100">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Modified</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=100&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">MX Modified</a>
+<br/>For issues with MX that has been modified from the initial install. Example: adding packages that then cause issues.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>145</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">145 <dfn>Topics</dfn></dd>
+<dd class="posts">1609 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=21477&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">jackdanielsesq</a> <a href="./viewtopic.php?f=100&amp;p=566310&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566310" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 3:02 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX KDE" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=127">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX KDE</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=127&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">MX KDE</a>
+<br/>Help on MX KDE Re-spins												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>149</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">149 <dfn>Topics</dfn></dd>
+<dd class="posts">1670 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=16047&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">Caesar2</a> <a href="./viewtopic.php?f=127&amp;p=565882&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p565882" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Mar 20, 2020 7:22 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Fluxbox" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=143">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Fluxbox</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=143&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">MX Fluxbox</a>
+<br/>Help for MX Fluxbox												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>39</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">39 <dfn>Topics</dfn></dd>
+<dd class="posts">686 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=23974&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">AA BB</a> <a href="./viewtopic.php?f=143&amp;p=566069&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566069" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sat Mar 21, 2020 4:13 pm
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - antiX" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=40">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - antiX</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=40&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">antiX</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>497</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">497 <dfn>Topics</dfn></dd>
+<dd class="posts">5458 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=25441&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #00BFBF;">jeromerobert</a> <a href="./viewtopic.php?f=40&amp;p=566219&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566219" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Mar 22, 2020 1:03 pm
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - General" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=77">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - General</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=77&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">General</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=65&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Website</a>, 															<a class="subforum read" href="./viewforum.php?f=60&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Torrent Team</a>, 															<a class="subforum read" href="./viewforum.php?f=48&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Art Discussion</a>, 															<a class="subforum read" href="./viewforum.php?f=96&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Translations</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>563</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">563 <dfn>Topics</dfn></dd>
+<dd class="posts">6995 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=25369&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">user-green</a> <a href="./viewtopic.php?f=77&amp;p=566137&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566137" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Mar 22, 2020 7:04 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Repositories" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=78">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Repositories</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=78&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">MX Repositories</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=115&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>General</a>, 															<a class="subforum read" href="./viewforum.php?f=57&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>MX Repository Discussion</a>, 															<a class="subforum read" href="./viewforum.php?f=55&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests / Status</a>, 															<a class="subforum read" href="./viewforum.php?f=140&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests/Status - MX-19</a>, 															<a class="subforum read" href="./viewforum.php?f=134&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests/Status - MX 17/18</a>, 															<a class="subforum read" href="./viewforum.php?f=121&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests/Status - MX-15/16</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>1482</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">1482 <dfn>Topics</dfn></dd>
+<dd class="posts">15489 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=18851&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">app4soft</a> <a href="./viewtopic.php?f=55&amp;p=566302&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566302" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 1:18 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Chat" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=80">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Chat</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=80&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Chat</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=6&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>General</a>, 															<a class="subforum read" href="./viewforum.php?f=9&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Community Fun</a>, 															<a class="subforum read" href="./viewforum.php?f=42&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Success Stories</a>, 															<a class="subforum read" href="./viewforum.php?f=25&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Testimonials</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>1492</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">1492 <dfn>Topics</dfn></dd>
+<dd class="posts">17581 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=20391&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #4080FF;">JayM</a> <a href="./viewtopic.php?f=6&amp;p=566301&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566301" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 12:53 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Other Languages" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=81">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Other Languages</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=81&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Other Languages</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=12&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum en Español</a>, 															<a class="subforum read" href="./viewforum.php?f=13&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum Français</a>, 															<a class="subforum read" href="./viewforum.php?f=14&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum Italiano</a>, 															<a class="subforum read" href="./viewforum.php?f=136&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Deutsches Forum</a>, 															<a class="subforum read" href="./viewforum.php?f=139&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>المنتدي العربي</a>, 															<a class="subforum read" href="./viewforum.php?f=144&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>中文論壇</a>, 															<a class="subforum read" href="./viewforum.php?f=141&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Other Languages Forum</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>830</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">830 <dfn>Topics</dfn></dd>
+<dd class="posts">6007 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=13525&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">fabio63</a> <a href="./viewtopic.php?f=14&amp;p=566200&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p566200" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Mar 22, 2020 11:50 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Community Submissions" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=82">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Community Submissions</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=82&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Community Submissions</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=39&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Sharing</a>, 															<a class="subforum read" href="./viewforum.php?f=27&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Scripts</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>55</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">55 <dfn>Topics</dfn></dd>
+<dd class="posts">668 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17982&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">KoO</a> <a href="./viewtopic.php?f=27&amp;p=555119&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p555119" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Jan 24, 2020 3:25 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<a class="forumtitle" href="./viewforum.php?f=33&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Rules and Forum How-Tos</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=32&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Rules</a>, 															<a class="subforum read" href="./viewforum.php?f=35&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum How-to's</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>49</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">49 <dfn>Topics</dfn></dd>
+<dd class="posts">478 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=3649&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #FF8000;">asqwerth</a> <a href="./viewtopic.php?f=32&amp;p=530087&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p530087" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Sep 27, 2019 1:04 am
+													</span>
+</dd>
+</dl>
+</li>
+title_element is None
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Site Help" href="/app.php/feed?sid=da19bd6fb8e18ad03a6ff52f0cd49e16?f=10">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Site Help</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=10&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16">Site Help</a>
+<br/>If you are having a problem with logging into the site or with registering, then post under this forum to try to get help, or just use the "contact us" link at the bottom of the page to notify the Site Administrators.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>112</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">112 <dfn>Topics</dfn></dd>
+<dd class="posts">1299 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=24727&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16" style="color: #000033;">mx_fan</a> <a href="./viewtopic.php?f=10&amp;p=564723&amp;sid=da19bd6fb8e18ad03a6ff52f0cd49e16#p564723" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Thu Mar 12, 2020 10:32 am
+													</span>
+</dd>
+</dl>
+</li>
+==========
+
+
+											persist-save error: Missing version ID in rootfs file system

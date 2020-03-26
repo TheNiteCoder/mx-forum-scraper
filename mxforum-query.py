@@ -152,16 +152,16 @@ for forumbg in soup.find_all(get_all_forumbg):
 
 count = 0
 
+# Get rid of duplicates
 def f7(seq):
     seen = set()
     seen_add = seen.add
     return [x for x in seq if not (x in seen or seen_add(x))]
 
-# Get rid of duplicates
 for key in section_map.keys():
     section_map[key] = f7(section_map[key])
 
-
+# filter by section name
 if args.section != None:
     if args.section in section_map.keys():
         for item in section_map[args.section]:

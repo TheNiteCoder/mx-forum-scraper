@@ -1,0 +1,878 @@
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner">Newest Posts</div></dt>
+<dd class="topics tf-active-header">Top Active Users</dd>
+<dd class="lastpost"><span>Newest Users</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl>
+<dt>
+<div class="list-inner">
+<ul>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=104&amp;p=566584&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566584">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											[Solved] Problem booting with new GPU (5700 XT, Navi10)</a><span class="meta">by <span class="username-coloured" style="color: #FF8000;">Stevo</span> » Tue Mar 24, 2020 6:00 pm » in <a href="./viewforum.php?f=104&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Help</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=104&amp;p=566583&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566583">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											How to make backup of my system for reinstall in case of cr…</a><span class="meta">by <span class="username-coloured" style="color: #FF8000;">Stevo</span> » Tue Mar 24, 2020 5:54 pm » in <a href="./viewforum.php?f=104&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Help</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=107&amp;p=566580&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566580">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											Enable Vulkan, disable Bumblebee (if need be)</a><span class="meta">by <span class="username-coloured" style="color: #FF8000;">Stevo</span> » Tue Mar 24, 2020 5:45 pm » in <a href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=108&amp;p=566579&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566579">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											Brave Browser on Public Wi-Fi Networks</a><span class="meta">by <span class="username-coloured" style="color: #000033;">Head_on_a_Stick</span> » Tue Mar 24, 2020 5:40 pm » in <a href="./viewforum.php?f=108&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Software / Configuration</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=143&amp;p=566578&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566578">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											small icon upper left corner</a><span class="meta">by <span class="username-coloured" style="color: #000033;">i_ri</span> » Tue Mar 24, 2020 5:38 pm » in <a href="./viewforum.php?f=143&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Fluxbox</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=107&amp;p=566576&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566576">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											can't brother printer to print full page without shrink to …</a><span class="meta">by <span class="username-coloured" style="color: #000033;">Seeker</span> » Tue Mar 24, 2020 5:26 pm » in <a href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=97&amp;p=566575&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566575">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											nomacs completely frozen on old AMD</a><span class="meta">by <span class="username-coloured" style="color: #000033;">imschmeg</span> » Tue Mar 24, 2020 5:21 pm » in <a href="./viewforum.php?f=97&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Bugs and Non-Package Requests Forum</a></span>
+</li>
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=107&amp;p=566574&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566574">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											lucky Backup freezes at the End</a><span class="meta">by <span class="username-coloured" style="color: #000033;">Duliwi</span> » Tue Mar 24, 2020 5:19 pm » in <a href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a></span>
+</li>
+</ul>
+</div>
+</dt>
+<dd class="topics tf-most-active">
+<ul>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #AA0000;">Jerry3904</span><span><br>  Posts: <a href="./search.php?author_id=365&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">26,867</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">Stevo</span><span><br>  Posts: <a href="./search.php?author_id=2014&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">20,934</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #AA0000;">richb</span><span><br>  Posts: <a href="./search.php?author_id=77&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">20,006</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">dolphin_oracle</span><span><br>  Posts: <a href="./search.php?author_id=5333&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">14,191</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #AA0000;">Eadwine Rose</span><span><br>  Posts: <a href="./search.php?author_id=8&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">11,010</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #000033;">lucky9</span><span><br>  Posts: <a href="./search.php?author_id=26&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">10,881</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">Adrian</span><span><br>  Posts: <a href="./search.php?author_id=7&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">10,390</a></br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">kmathern</span><span><br>  Posts: <a href="./search.php?author_id=79&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">9,266</a></br></span></span>
+</li>
+</ul>
+</dd>
+<dd class="lastpost tf-newest"><span>
+<ul>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">rsotol028</span><span><br>  Joined: Tue Mar 24, 2020 4:22 pm</br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">hgconrad</span><span><br>  Joined: Tue Mar 24, 2020 2:22 pm</br></span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">LinnitXa</span><span><br/>  Joined: Tue Mar 24, 2020 1:07 pm</span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">jab1one</span><span><br/>  Joined: Tue Mar 24, 2020 11:49 am</span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">franz424</span><span><br/>  Joined: Tue Mar 24, 2020 4:56 am</span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #BFBF40;">Elmerzip</span><span><br/>  Joined: Mon Mar 23, 2020 8:51 pm</span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">Gregory73</span><span><br/>  Joined: Mon Mar 23, 2020 5:01 pm</span></span>
+</li>
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">giordani</span><span><br/>  Joined: Mon Mar 23, 2020 12:26 pm</span></span>
+</li>
+</ul>
+</span></dd>
+</dl>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=104&amp;p=566584&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566584">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											[Solved] Problem booting with new GPU (5700 XT, Navi10)</a><span class="meta">by <span class="username-coloured" style="color: #FF8000;">Stevo</span> » Tue Mar 24, 2020 6:00 pm » in <a href="./viewforum.php?f=104&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Help</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=104&amp;p=566583&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566583">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											How to make backup of my system for reinstall in case of cr…</a><span class="meta">by <span class="username-coloured" style="color: #FF8000;">Stevo</span> » Tue Mar 24, 2020 5:54 pm » in <a href="./viewforum.php?f=104&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Help</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=107&amp;p=566580&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566580">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											Enable Vulkan, disable Bumblebee (if need be)</a><span class="meta">by <span class="username-coloured" style="color: #FF8000;">Stevo</span> » Tue Mar 24, 2020 5:45 pm » in <a href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=108&amp;p=566579&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566579">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											Brave Browser on Public Wi-Fi Networks</a><span class="meta">by <span class="username-coloured" style="color: #000033;">Head_on_a_Stick</span> » Tue Mar 24, 2020 5:40 pm » in <a href="./viewforum.php?f=108&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Software / Configuration</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=143&amp;p=566578&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566578">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											small icon upper left corner</a><span class="meta">by <span class="username-coloured" style="color: #000033;">i_ri</span> » Tue Mar 24, 2020 5:38 pm » in <a href="./viewforum.php?f=143&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Fluxbox</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=107&amp;p=566576&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566576">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											can't brother printer to print full page without shrink to …</a><span class="meta">by <span class="username-coloured" style="color: #000033;">Seeker</span> » Tue Mar 24, 2020 5:26 pm » in <a href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=97&amp;p=566575&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566575">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											nomacs completely frozen on old AMD</a><span class="meta">by <span class="username-coloured" style="color: #000033;">imschmeg</span> » Tue Mar 24, 2020 5:21 pm » in <a href="./viewforum.php?f=97&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Bugs and Non-Package Requests Forum</a></span>
+</li>
+=============================
+<li>
+<a class="topictitle subforum read" href="./viewtopic.php?f=107&amp;p=566574&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566574">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>											lucky Backup freezes at the End</a><span class="meta">by <span class="username-coloured" style="color: #000033;">Duliwi</span> » Tue Mar 24, 2020 5:19 pm » in <a href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #AA0000;">Jerry3904</span><span><br>  Posts: <a href="./search.php?author_id=365&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">26,867</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">Stevo</span><span><br>  Posts: <a href="./search.php?author_id=2014&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">20,934</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #AA0000;">richb</span><span><br>  Posts: <a href="./search.php?author_id=77&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">20,006</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">dolphin_oracle</span><span><br>  Posts: <a href="./search.php?author_id=5333&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">14,191</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #AA0000;">Eadwine Rose</span><span><br>  Posts: <a href="./search.php?author_id=8&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">11,010</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #000033;">lucky9</span><span><br>  Posts: <a href="./search.php?author_id=26&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">10,881</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">Adrian</span><span><br>  Posts: <a href="./search.php?author_id=7&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">10,390</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #FF8000;">kmathern</span><span><br>  Posts: <a href="./search.php?author_id=79&amp;sr=posts&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">9,266</a></br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">rsotol028</span><span><br>  Joined: Tue Mar 24, 2020 4:22 pm</br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">hgconrad</span><span><br>  Joined: Tue Mar 24, 2020 2:22 pm</br></span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">LinnitXa</span><span><br/>  Joined: Tue Mar 24, 2020 1:07 pm</span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">jab1one</span><span><br/>  Joined: Tue Mar 24, 2020 11:49 am</span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">franz424</span><span><br/>  Joined: Tue Mar 24, 2020 4:56 am</span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #BFBF40;">Elmerzip</span><span><br/>  Joined: Mon Mar 23, 2020 8:51 pm</span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">Gregory73</span><span><br/>  Joined: Mon Mar 23, 2020 5:01 pm</span></span>
+</li>
+=============================
+<li>
+<span class="meta"><span class="username-coloured" style="color: #00BFBF;">giordani</span><span><br/>  Joined: Mon Mar 23, 2020 12:26 pm</span></span>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=130&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">News/Announcements</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX News and Announcements" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=131">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX News and Announcements</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=131&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX News and Announcements</a>
+<br/>Announcements and news of importance or interest regarding MX.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>45</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">45 <dfn>Topics</dfn></dd>
+<dd class="posts">89 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=5333&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #FF8000;">dolphin_oracle</a> <a href="./viewtopic.php?f=131&amp;p=559844&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p559844" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Feb 14, 2020 11:04 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - antiX News and Announcements" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=132">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - antiX News and Announcements</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=132&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">antiX News and Announcements</a>
+<br/>Announcements and news of importance or interest regarding antiX.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>1</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">1 <dfn>Topics</dfn></dd>
+<dd class="posts">6 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17058&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #00AA00;">rokytnji.1</a> <a href="./viewtopic.php?f=132&amp;p=424310&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p424310" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Oct 22, 2017 8:58 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Site Announcements" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=133">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Site Announcements</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=133&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Site Announcements</a>
+<br/>Announcements and news of importance or interest regarding the Forum and the Community Website.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>15</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">15 <dfn>Topics</dfn></dd>
+<dd class="posts">26 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=77&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #AA0000;">richb</a> <a href="./viewtopic.php?f=133&amp;p=564490&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p564490" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Wed Mar 11, 2020 9:10 am
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=103&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX - ACTIVELY DEVELOPED AND SUPPORTED</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Help" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=104">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Help</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=104&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Help</a>
+<br/>Help for Current Versions of MX																										<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=97&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Bugs and Non-Package Requests Forum</a>, 															<a class="subforum read" href="./viewforum.php?f=92&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Installation</a>, 															<a class="subforum read" href="./viewforum.php?f=23&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Tips&amp;Tricks</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>5954</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">5954 <dfn>Topics</dfn></dd>
+<dd class="posts">60063 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=2014&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #FF8000;">Stevo</a> <a href="./viewtopic.php?f=104&amp;p=566584&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566584" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 6:00 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - General" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=94">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - General</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=94&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">General</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=93&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Desktop Environment</a>, 															<a class="subforum read" href="./viewforum.php?f=101&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Documentation and videos</a>, 															<a class="subforum read" href="./viewforum.php?f=95&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Themes and Screenshots</a>, 															<a class="subforum read" href="./viewforum.php?f=116&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>MX Art</a>, 															<a class="subforum read" href="./viewforum.php?f=128&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>User contributed icons</a>, 															<a class="subforum read" href="./viewforum.php?f=129&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>User contributed Wallpaper</a>, 															<a class="subforum read" href="./viewforum.php?f=126&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>MX Linux Official Blog</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>2077</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">2077 <dfn>Topics</dfn></dd>
+<dd class="posts">30638 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17687&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">monsieurzik</a> <a href="./viewtopic.php?f=95&amp;p=566464&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566464" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 3:34 am
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Hardware /Configuration" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=107">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Hardware /Configuration</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=107&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Hardware /Configuration</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>987</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">987 <dfn>Topics</dfn></dd>
+<dd class="posts">8990 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=2014&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #FF8000;">Stevo</a> <a href="./viewtopic.php?f=107&amp;p=566580&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566580" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 5:45 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Software / Configuration" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=108">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Software / Configuration</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=108&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Software / Configuration</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>2280</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">2280 <dfn>Topics</dfn></dd>
+<dd class="posts">20674 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=21042&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">Head_on_a_Stick</a> <a href="./viewtopic.php?f=108&amp;p=566579&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566579" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 5:40 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Older Versions" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=91">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Older Versions</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=91&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Older Versions</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>253</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">253 <dfn>Topics</dfn></dd>
+<dd class="posts">5093 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17572&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">joejac</a> <a href="./viewtopic.php?f=91&amp;p=565044&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p565044" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sat Mar 14, 2020 6:03 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=124&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX MODIFIED - CONDITIONALLY SUPPORTED BY FORUM MEMBERS</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Modified" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=100">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Modified</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=100&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Modified</a>
+<br/>For issues with MX that has been modified from the initial install. Example: adding packages that then cause issues.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>145</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">145 <dfn>Topics</dfn></dd>
+<dd class="posts">1610 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=18517&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">rasat</a> <a href="./viewtopic.php?f=100&amp;p=566353&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566353" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Mon Mar 23, 2020 10:54 am
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX KDE" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=127">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX KDE</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=127&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX KDE</a>
+<br/>Help on MX KDE Re-spins												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>149</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">149 <dfn>Topics</dfn></dd>
+<dd class="posts">1670 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=16047&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">Caesar2</a> <a href="./viewtopic.php?f=127&amp;p=565882&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p565882" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Mar 20, 2020 7:22 am
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Fluxbox" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=143">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Fluxbox</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=143&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Fluxbox</a>
+<br/>Help for MX Fluxbox												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>41</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">41 <dfn>Topics</dfn></dd>
+<dd class="posts">710 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17339&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">i_ri</a> <a href="./viewtopic.php?f=143&amp;p=566578&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566578" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 5:38 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=112&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">antiX - MX COLLABORATOR, ACTIVELY DEVELOPED AND SUPPORTED</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - antiX" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=40">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - antiX</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=40&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">antiX</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>497</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">497 <dfn>Topics</dfn></dd>
+<dd class="posts">5458 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=25441&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #00BFBF;">jeromerobert</a> <a href="./viewtopic.php?f=40&amp;p=566219&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566219" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Sun Mar 22, 2020 1:03 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=76&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Development</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - General" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=77">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - General</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=77&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">General</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=65&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Website</a>, 															<a class="subforum read" href="./viewforum.php?f=60&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Torrent Team</a>, 															<a class="subforum read" href="./viewforum.php?f=48&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Art Discussion</a>, 															<a class="subforum read" href="./viewforum.php?f=96&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Translations</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>563</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">563 <dfn>Topics</dfn></dd>
+<dd class="posts">7015 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=25462&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #00BFBF;">rsotol028</a> <a href="./viewtopic.php?f=77&amp;p=566566&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566566" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 4:24 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - MX Repositories" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=78">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - MX Repositories</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=78&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">MX Repositories</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=115&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>General</a>, 															<a class="subforum read" href="./viewforum.php?f=57&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>MX Repository Discussion</a>, 															<a class="subforum read" href="./viewforum.php?f=55&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests / Status</a>, 															<a class="subforum read" href="./viewforum.php?f=140&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests/Status - MX-19</a>, 															<a class="subforum read" href="./viewforum.php?f=134&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests/Status - MX 17/18</a>, 															<a class="subforum read" href="./viewforum.php?f=121&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Requests/Status - MX-15/16</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>1484</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">1484 <dfn>Topics</dfn></dd>
+<dd class="posts">15508 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=2014&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #FF8000;">Stevo</a> <a href="./viewtopic.php?f=57&amp;p=566573&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566573" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 5:15 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=79&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Community</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Chat" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=80">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Chat</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=80&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Chat</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=6&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>General</a>, 															<a class="subforum read" href="./viewforum.php?f=9&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Community Fun</a>, 															<a class="subforum read" href="./viewforum.php?f=42&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Success Stories</a>, 															<a class="subforum read" href="./viewforum.php?f=25&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Testimonials</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>1493</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">1493 <dfn>Topics</dfn></dd>
+<dd class="posts">17617 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=8&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #AA0000;">Eadwine Rose</a> <a href="./viewtopic.php?f=6&amp;p=566555&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566555" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 3:38 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Other Languages" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=81">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Other Languages</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=81&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Other Languages</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=12&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum en Español</a>, 															<a class="subforum read" href="./viewforum.php?f=13&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum Français</a>, 															<a class="subforum read" href="./viewforum.php?f=14&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum Italiano</a>, 															<a class="subforum read" href="./viewforum.php?f=136&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Deutsches Forum</a>, 															<a class="subforum read" href="./viewforum.php?f=139&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>المنتدي العربي</a>, 															<a class="subforum read" href="./viewforum.php?f=144&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>中文論壇</a>, 															<a class="subforum read" href="./viewforum.php?f=141&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Other Languages Forum</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>831</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">831 <dfn>Topics</dfn></dd>
+<dd class="posts">6012 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=15696&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">Spartak77</a> <a href="./viewtopic.php?f=14&amp;p=566567&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p566567" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Tue Mar 24, 2020 4:30 pm
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Community Submissions" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=82">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Community Submissions</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=82&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Community Submissions</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=39&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Package Sharing</a>, 															<a class="subforum read" href="./viewforum.php?f=27&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Scripts</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>55</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">55 <dfn>Topics</dfn></dd>
+<dd class="posts">668 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=17982&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">KoO</a> <a href="./viewtopic.php?f=27&amp;p=555119&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p555119" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Jan 24, 2020 3:25 am
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="header">
+<dl class="row-item">
+<dt><div class="list-inner"><a href="./viewforum.php?f=102&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Administration</a></div></dt>
+<dd class="topics">Topics</dd>
+<dd class="posts">Posts</dd>
+<dd class="lastpost"><span>Last post</span></dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read_subforum">
+<dt title="No unread posts">
+<div class="list-inner">
+<a class="forumtitle" href="./viewforum.php?f=33&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Rules and Forum How-Tos</a>
+<br/><strong>Subforums:</strong>
+<a class="subforum read" href="./viewforum.php?f=32&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Rules</a>, 															<a class="subforum read" href="./viewforum.php?f=35&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" title="No unread posts">
+<i aria-hidden="true" class="icon fa-file-o fa-fw icon-blue icon-md"></i>Forum How-to's</a>
+<div class="responsive-show" style="display: none;">
+															Topics: <strong>49</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">49 <dfn>Topics</dfn></dd>
+<dd class="posts">478 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=3649&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #FF8000;">asqwerth</a> <a href="./viewtopic.php?f=32&amp;p=530087&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p530087" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Fri Sep 27, 2019 1:04 am
+													</span>
+</dd>
+</dl>
+</li>
+=============================
+<li class="row">
+<dl class="row-item forum_read">
+<dt title="No unread posts">
+<div class="list-inner">
+<!--
+								<a class="feed-icon-forum" title="Feed - Site Help" href="/app.php/feed?sid=cea4825fdb26673c1a484d7a056fcbdb?f=10">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Site Help</span>
+								</a>
+							-->
+<a class="forumtitle" href="./viewforum.php?f=10&amp;sid=cea4825fdb26673c1a484d7a056fcbdb">Site Help</a>
+<br/>If you are having a problem with logging into the site or with registering, then post under this forum to try to get help, or just use the "contact us" link at the bottom of the page to notify the Site Administrators.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>112</strong>
+</div>
+</div>
+</dt>
+<dd class="topics">112 <dfn>Topics</dfn></dd>
+<dd class="posts">1299 <dfn>Posts</dfn></dd>
+<dd class="lastpost">
+<span>
+<dfn>Last post</dfn>
+																	by <a class="username-coloured" href="./memberlist.php?mode=viewprofile&amp;u=24727&amp;sid=cea4825fdb26673c1a484d7a056fcbdb" style="color: #000033;">mx_fan</a> <a href="./viewtopic.php?f=10&amp;p=564723&amp;sid=cea4825fdb26673c1a484d7a056fcbdb#p564723" title="View the latest post">
+<i aria-hidden="true" class="icon fa-external-link-square fa-fw icon-lightgray icon-md"></i><span class="sr-only">View the latest post</span>
+</a>
+<br/>Thu Mar 12, 2020 10:32 am
+													</span>
+</dd>
+</dl>
+</li>

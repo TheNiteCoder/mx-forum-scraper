@@ -6,9 +6,9 @@ def selector(obj):
 
 class ConstructError(BaseException):
     def __init__(self, msg):
-        self.__msg__ = msg
+        self.msg = msg
     def __str__(self):
-        return self.__msg__
+        return self.msg
 
 class ForumSelectorObject:
     def __init__(self, selectors=dict()):
@@ -55,7 +55,7 @@ class Section(ForumSelectorObject):
                 except ConstructError as ce:
                     raise ConstructError('fv.construct threw ContructError: ' + ce.msg)
             for match in parser.select(TopicView().selector('section')):
-                print(str(match))
+                # print(str(match))
                 tv = TopicView()
                 try:
                     tv.contruct(str(match))
@@ -101,7 +101,7 @@ class ForumView(ForumSelectorObject):
             self.url = title_link['href']
         self.title = title_link.text
         self.title = self.title.strip()
-        
+
 class ForumPage(ForumPageObject):
     def __init__(self, url):
         super().__init__(url)
